@@ -1,10 +1,10 @@
 # Chatbot
-Chatbot uses deep learning techniques to interact with customers via chat graphical user interface
+Chatbot uses deep learning techniques to interact with customers via chat graphical user interface.
 
 ## Instructions
-1. Make sure all the proper libraries are imported (i.e _tensorflow, keras) and packages are installed.
+1. Make sure all the proper libraries are imported (i.e _tensorflow, keras_) and packages are installed.
 2. Run `chatBot_training.py` to train the model.
-3. Run `chatBot_GUI.py` to interact with chatBot
+3. Run `chatBot_GUI.py` to interact with chatBot.
 
 
 ## How do Chatbots Work?
